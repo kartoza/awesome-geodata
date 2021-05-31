@@ -134,11 +134,11 @@ The Republic of South Africa
 - http://www.sasdi.net/ - South African Spatial Data Infrastructure Catalogue
 - http://cdngiportal.co.za/cdngiportal/ - Chief Directorate National Geo-Spatial Information (NGI) Portal from the Department of Rural Development and Land Reform (DRDLR)
 - http://catalogue.sansa.org.za/search/ - Data catalogue for the South African National Space Agency
-- https://egis.environment.gov.za/data_egis/data_download/current - The GIS data portal for the Department of Forestry, Fisheries and the Environment
-- https://ccis.environment.gov.za/#/data-download - National Climate Change Information System
-- http://www.dwa.gov.za/iwqs/gis_data/ - Department of Water and Sanitation inks to geographical data
-- https://dataportal-mdb-sa.opendata.arcgis.com/ - Municipal Demarcation board Data
-- https://bgis.sanbi.org/ - South African National Biodiversity Institute Spatial Data Portal
+- :leaves: https://egis.environment.gov.za/data_egis/data_download/current - The GIS data portal for the Department of Forestry, Fisheries and the Environment
+- :sunny: https://ccis.environment.gov.za/#/data-download - National Climate Change Information System
+- :droplet: http://www.dwa.gov.za/iwqs/gis_data/ - Department of Water and Sanitation inks to geographical data
+- :world_map: https://dataportal-mdb-sa.opendata.arcgis.com/ - Municipal Demarcation board Data
+- :blossom: https://bgis.sanbi.org/ - South African National Biodiversity Institute Spatial Data Portal
 
 ##### Metros and Municipalities
 
@@ -272,10 +272,8 @@ Many services may cater to a specific topic/ category or type of data. In order 
 
 * :hammer_and_wrench: Tools
 * :globe_with_meridians: Web Service
-* :world_map: Maps
-* :compass: Navigation
 * :artificial_satellite: Satellite
-* :mountain: Geology
+* :mount_fuji: Geology and Soils
 * :beach_umbrella: Tourism
 * :briefcase: Business Intelligence
 * :robot: AI/ ML
