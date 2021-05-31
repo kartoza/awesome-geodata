@@ -89,14 +89,18 @@ Where the scope of the data/ service may be global but the primary purpose of th
 
 ### Regional Hierarchy
 
-```
-Global
--- Continental
----- Sub Continental/ Regional
----- Country Codes: These should follow the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) naming convention
----- Other Countries: Where states/ entities or regions (or recognition of their sovereignty is under dispute) are not recognised by the ISO 3166-2 standard, they may be included at the bottom of the countries list with an `x-` prefix along with a unique identifier. Clarification on the entity should be provided in an excerpt.
------- Locality: As each country organises adminstrative abnd geographic regions differently into Parishes, Provinces, Counties, States or any other subdivisions, this may vary from entity to entity. This should have little immpact as long as the indentation level remains consistent.
-```
+Regional sections should be indented accordingly using the relevant header level.
+
+Global (`<h3>`)
+- Continental
+  - Sub Continental/ Regional
+  - Country Codes: These should follow the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) naming convention
+  - Other Countries: Where states/ entities or regions (or recognition of their sovereignty is under dispute) are not recognised by the ISO 3166-2 standard, they may be included at the bottom of the countries list with an `x-` prefix along with a unique identifier. Clarification on the entity should be provided in an excerpt.
+    - Locality: As each country organises adminstrative abnd geographic regions differently into Parishes, Provinces, Counties, States or any other subdivisions, this may vary from entity to entity. This should have little impact as long as the indentation level remains consistent.
+
+### Subsections
+
+Each category may be further divided into arbitrary subsections to better support categorisation of services by using a header with an additional indentation.
 
 ## Metadata
 
