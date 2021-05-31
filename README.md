@@ -4,6 +4,18 @@
 
 **ALPHA STATE NOTICE** - This is very much in an early WIP state.
 
+## Navigation
+
+This page relies on [GitHub Navigation Controls for Markdown](https://github.com/isaacs/github/issues/215#issuecomment-807688648) for in page navigation.
+
+Other relevant sections include:
+
+- [About](about.md)
+- [The Bucket](bucket.md)
+- [Contributing Guide](contributing.md)
+- [Regional Commercial Data Vendors List](vendors.md)
+- [Contributor Code of Conduct](code-of-conduct.md)
+
 ## About
 
 This readme provides the root geodata service list in order to simplify navigation and search for return users. It is highly recommended that anyone visiting this page for the first time reads through the [about page](about.md) first.
@@ -13,10 +25,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## Disclaimer
 
 Use at your own risk. This is just a list.
-
-## Navigation
-
-This page relies on [GitHub Navigation Controls for Markdown](https://github.com/isaacs/github/issues/215#issuecomment-807688648).
 
 ## Legend
 
@@ -100,6 +108,8 @@ Private tools, commercial vendors and other useful Earth Science links.
 
 - https://registry.opendata.aws/?search=tags:gis,earth%20observation,events,mapping,meteorological,environmental,transportation - Geodata from Amazon Web Services
 
+https://store.usgs.gov/ - View, purchase, and download data and maps
+
 ### Continental
 
 Data portals offered at continental, subcontinent or regional level
@@ -128,6 +138,7 @@ The Republic of South Africa
 - https://ccis.environment.gov.za/#/data-download - National Climate Change Information System
 - http://www.dwa.gov.za/iwqs/gis_data/ - Department of Water and Sanitation inks to geographical data
 - https://dataportal-mdb-sa.opendata.arcgis.com/ - Municipal Demarcation board Data
+- https://bgis.sanbi.org/ - South African National Biodiversity Institute Spatial Data Portal
 
 ##### Metros and Municipalities
 
@@ -247,7 +258,7 @@ Many services may cater to a specific topic/ category or type of data. In order 
 * :volcano: Geoscientific Information
 * :hospital: Health
 * :earth_africa: Imagery Base Maps Earth Cover
-* :artificial_satellite: Intelligence Military
+* :satellite: Intelligence Military
 * :droplet: Inland Waters
 * :compass: Location
 * :ocean: Oceans
@@ -263,7 +274,7 @@ Many services may cater to a specific topic/ category or type of data. In order 
 * :globe_with_meridians: Web Service
 * :world_map: Maps
 * :compass: Navigation
-* :satellite: Satellite
+* :artificial_satellite: Satellite
 * :mountain: Geology
 * :beach_umbrella: Tourism
 * :briefcase: Business Intelligence

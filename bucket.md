@@ -26,7 +26,7 @@ Data services for the African Continent
 
 ##### East Africa
 
-- http://geoportal.icpac.net - IGAD Climate Prediction and Applications Centre GeoNode instance
+- 2021 :recycle: http://geoportal.icpac.net - IGAD Climate Prediction and Applications Centre GeoNode instance
 
 #### The Caribbean
 
