@@ -260,7 +260,7 @@ Service endpoints of international importance and utility
 
 ## Software
 
-Software and software plugins which provide effective data access and cataloguing services.
+Software, platforms, and plugins which provide effective data access and cataloguing services.
 
 ### Esri
 
