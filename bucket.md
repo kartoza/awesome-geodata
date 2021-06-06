@@ -98,6 +98,8 @@ Geodata resources which don't quite fit any of the above categories.
 
 Some generic advice on how to more effectively discover and access spatial data
 
+> You can use the [GitHub Navigation Controls for Markdown](https://github.com/isaacs/github/issues/215#issuecomment-807688648) to jump to relevant sections of the list you utilise frequently and create a bookmark in your browser to skip the noise.
+
 > When using web mapping services you can usually find the endpoint addresses in the network tab of the developer tools (F12) in your browser which can then be used in another GIS system (dependant on service terms).
 
 > When accessing [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) or [SCP](https://en.wikipedia.org/wiki/Secure_Copy_Protocol) services, you can typically just type the full address, with the protocol prefix, into the address bar using your standard file browser, such as windows explorer. Most modern operating systems support this, however you can also use external SCP/ FTP client software like [WinSCP](https://winscp.net), [Cyberduck](https://cyberduck.io/), or [FileZilla](https://portableapps.com/apps/internet/filezilla_portable) - Warning, YMMV and Filezilla has been known to contain bundleware in the past.
