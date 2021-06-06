@@ -100,7 +100,7 @@ Global (`<h3>`)
 
 ### Subsections
 
-Each category may be further divided into arbitrary subsections to better support categorisation of services by using a header with an additional indentation.
+Each category may be further divided into arbitrary subsections to better support categorisation of services by simply using a header level with an additional indentation over the parent category.
 
 ## Metadata
 
@@ -117,6 +117,16 @@ Data services differ from many other data source types typically available in aw
 Data services, by contrast, require resources and maintenance, and their services are subject to scale utilisation and load.
 
 As such it is necessary to monitor and test these services, or at least identify services that become outdated or become unavailable. Provision for this process is made by utilising a date prefix (for listing last check) and an emoji identifier as outlined in the *Validity* section of the legend description of the readme.
+
+Listed services that are not checked and updated regularly may be removed or migrated to a deprecated list.
+
+## Excludes
+
+The exclusions list identifies services and agencies which wish to be explicitly excluded from this list.
+
+These are listed by agency and domain to prevent unwanted exposure.
+
+Please check the [exclusions list](excludes.md) before submitting services for review. This includes pending pull requests for service exclusions.
 
 ## Contribute
 

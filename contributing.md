@@ -12,13 +12,12 @@ Ensure that pull requests adhere to the following guidelines:
 - Ensure that you are familiar with the data management structure. Submissions to incorrect sections will be refused.
 - Tag entries according to the relevant legend items to ensure that the appropriate  metadata is available to properly describe entries.
 - Check the list for your entry or similar entries BEFORE submission! This goes for entries in the primary list AS WELL AS the bucket.
-
+- Please check the exclusions list before submitting services for review. This includes pending pull requests for service exclusions.
 
 ## Updating your PR
 
 In many instances, maintainers may ask you to edit your PR before we merge it.
 There is no need to open a new PR, but rather edit the existing one with your changes.
-
 
 ## Thanks
 
