@@ -258,6 +258,12 @@ Service endpoints of international importance and utility
 - :muscle: :gem: :zero: https://tile.openstreetmap.org/{z}/{x}/{y}.png - XYZ Tiles from the [OpenStreetMap Project](https://www.openstreetmap.org/)
 - :muscle: :gem: :zero: https://neo.sci.gsfc.nasa.gov/wms/wms?version=1.3.0 - WMS for https://neo.sci.gsfc.nasa.gov/
 
+## Other
+
+Geodata and related resources which don't quite fit any of the above categories.
+
+- https://data.giss.nasa.gov/ - Miscellaneous data from the NASA Goddard Institute for Space Studies
+
 ## Software
 
 Software, platforms, and plugins which provide effective data access and cataloguing services.

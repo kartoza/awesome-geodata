@@ -85,7 +85,7 @@ Very few [vector tile services](https://en.wikipedia.org/wiki/Vector_tiles) are 
 
 ## Other
 
-Geodata resources which don't quite fit any of the above categories.
+Geodata and related resources which don't quite fit any of the above categories.
 
 - https://wikitech.wikimedia.org/wiki/Maps - details on deploying Maps service on Wikimedia Foundation infrastructure
 - :unlock: :money_with_wings: :copyright: https://www.maptiler.com/data/ - Various data solutions for vector and raster tiles, including downloading, serving, and API access
