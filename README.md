@@ -47,7 +47,7 @@ This list uses emoji to highlight some characteristic of a service or platform w
 * :icecream: - Free (Gratis but proprietary)
 * :money_with_wings: - Freemium (Pay nothing now but much later)
 * :moneybag: - Commercial
-* :muscle: - The site has reliable support (This includes funding or infrastructure provided by a large foundation, NGO, public agency, corporation, or corporate sponsorship)
+* :muscle: - The site has reliable support (This includes funding or infrastructure provided by a large foundation, NGO, public agency, corporation, or significant corporate sponsorship and should be indicative that it is expected to have continued support for the medium to long term, or 5-10 years, without changes to it's terms of use even if it experiences a sudden rise in popularity, making it suitable for use in production)
 * :alien: - The site acts strange, asks you to jump through hoops to get data, and may not be totally altruistic
 
 ### Licensing
