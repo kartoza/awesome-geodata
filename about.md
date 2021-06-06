@@ -65,7 +65,7 @@ If you have another entry similar to these which you feel should be included, pl
 
 ## Structure
 
-ENTRIES MUST NOT BE DUPLICATED.
+**ENTRIES MUST NOT BE DUPLICATED**
 
 Wherever possible/ reasonable, items should be listed in order oof priority (where relevant) and then alphabetically. For example, national level infrastructure services, it is likely that priority is given to higher level projects (e.g. a national SDI), following which services may be listed in alphabetical order.
 

@@ -128,9 +128,10 @@ Data portals offered at continental, subcontinent or regional level
 #### Africa
 
 Data services for the African Continent
+
 ##### Civic Technology
 
-Portals, datahubs and catalogues curated by civic technology agencies and community projects
+Portals, data hubs, and catalogues curated by civic technology agencies and community projects
 
 - https://africaopendata.org/ - A CKAN implementation for various civic technology groups and public agencies to share and catalogue data, maintained by [Code for Africa](https://github.com/CodeForAfrica/)
 
@@ -377,9 +378,9 @@ Emoji keys for outlining data and services specific to a valid ISO 19115 Categor
 
 Private commercial data vendors which may supply data across various domains or regions may be found on the [commercial vendors page](vendors.md).
 
-## [Exclusions](excludes.md)
+## Exclusions
 
-If you are the custodian of a listed service and wish for your services to not be listed please file a PR to add your agency, service name, or domain name to the exclusion list. Note that it may be expected that some form of demonstration of ownership for a service is provided before the PR is merged.
+If you are the custodian of a listed service and wish for your services to not be listed please file a PR to add your agency, service name, or domain name to the [exclusion list](excludes.md). Note that it may be expected that some form of demonstration of ownership for a service is provided before the PR is merged.
 
 ## Thanks
 
