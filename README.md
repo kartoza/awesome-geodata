@@ -203,6 +203,7 @@ The following resources should facilitate utilisation of census data from statss
 
 - http://c.aerial.openstreetmap.org.za/ngi-aerial/{z}/{x}/{y}.jpg - XYZ Tile service for South African Imagery from the NGI
 - https://htonl.dev.openstreetmap.org/ngi-tiles/tiles/50k/{z}/{x}/{-y}.png - XYZ Tile service for South African 50k Toposheets
+- http://bgismaps.sanbi.org/arcgis/rest/services - ArGIS Server REST endpoint for SANBI BGIS
 
 ## Topics
 
