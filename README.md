@@ -234,6 +234,7 @@ These are typically expected to be at global or continental scale at least. Loca
 :zap:
 
 - https://energydata.info/ - Open data platform providing access to datasets and data analytics that are relevant to the energy sector.
+- https://globalsolaratlas.info/map - Maps and data for countries eligible for official development assistance [SolarGIS Catalogue](https://solargis.com/maps-and-gis-data/overview)
 
 ### Health
 
