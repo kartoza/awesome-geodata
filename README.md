@@ -47,7 +47,7 @@ This list uses emoji to highlight some characteristic of a service or platform w
 * :icecream: - Free (Gratis but proprietary)
 * :money_with_wings: - Freemium (Pay nothing now but much later)
 * :moneybag: - Commercial (Requires license)
-* :muscle: - The site has reliable support (This includes funding or infrastructure provided by a large foundation, NGO, public agency, corporation, or significant corporate sponsorship and should be indicative that it is expected to have continued support for the medium to long term, or 5-10 years, without changes to it's terms of use even if it experiences a sudden rise in popularity, making it suitable for use in production)
+* :muscle: - The site has reliable support (This includes funding or infrastructure provided by a large foundation, NGO, public agency, corporation, or significant corporate sponsorship and should be indicative that it is expected to have continued support for the medium to long term, or 5-10 years, without changes to it's terms of use even if it experiences a sudden rise in popularity, making it suitable for use in production. It should also indicate mature services with wide userbase which are unlikely to introduce breaking changes)
 * :alien: - The site acts strange, asks you to jump through hoops to get data, and may not be totally altruistic
 
 ### Licensing
@@ -158,6 +158,10 @@ The United States of America
 
 - https://catalog.data.gov/dataset - US Government Data Portal based on the CKAN platform
 - https://github.com/Microsoft/USBuildingFootprints - Microsoft Building Footprints for the US
+
+## Oklahoma
+
+ - https://gis-okdot.opendata.arcgis.com - Oklahoma Department of Transport Geodata
 
 #### ZA
 
