@@ -67,7 +67,7 @@ Licensing information is provided where possible, however it is subject to error
 * {{YYYY}} :hourglass: - Service online but seems to be struggling with performance/ scale/ load etc
 * {{YYYY}} :grey_exclamation: - Service online but seems to have maintenance issues (invalid ssl etc)
 * {{YYYY}} :interrobang: - Service checked and seems to be unavailable
-* :exclamation: - Service is deprecated and expected to go offline
+* {{YYYY}} :exclamation: - Service is deprecated and expected to go offline at the date listed
 
 An extended legend is provided at the bottom of the list to assist with additional categorisations and content discovery.
 
