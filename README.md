@@ -76,7 +76,7 @@ An extended legend is provided at the bottom of the list to assist with addition
 The following outline lists of spatial datasources similar to this list:
 
 - A List of related but dissimilar community lists is available in the "Prior Art" section of the [About Page](about.md#prior-art)
-- ://en.wikipedia.org/wiki/List_of_GIS_data_sources - Wikipedia equivalent of awesome-geodata
+- https://en.wikipedia.org/wiki/List_of_GIS_data_sources - Wikipedia equivalent of awesome-geodata
 
 ## Geodata Regions
 
