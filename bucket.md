@@ -87,6 +87,7 @@ Very few [vector tile services](https://en.wikipedia.org/wiki/Vector_tiles) are 
 
 Geodata and related resources which don't quite fit any of the above categories.
 
+- http://maps.stamen.com/ - Maps and designs by Stamen. fancy enough that the [Smithsonian added it to their permanent collection](https://www.si.edu/newsdesk/releases/watercolor-maptiles-website-enters-permanent-collection-cooper-hewitt).
 - https://wikitech.wikimedia.org/wiki/Maps - details on deploying Maps service on Wikimedia Foundation infrastructure
 - :unlock: :money_with_wings: :copyright: https://www.maptiler.com/data/ - Various data solutions for vector and raster tiles, including downloading, serving, and API access
 - https://openmaptiles.org/ - Project for storing and styling tile services, maintained by the maptiler team
