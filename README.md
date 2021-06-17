@@ -152,6 +152,12 @@ Canada
 - https://geodiscover.alberta.ca - Enhanced details on Alberta's geospatial data
 - https://open.alberta.ca/opendata - Alberta Open Data Portal (includes spatial data)
 
+#### KE
+
+Kenya
+
+- :blossom: https://tanaribbis.org/ - Biodiversity portal for Kenya
+
 #### US
 
 The United States of America
