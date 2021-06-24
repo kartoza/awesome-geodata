@@ -229,8 +229,9 @@ These are typically expected to be at global or continental scale at least. Loca
 
 ### Climate
 
-- http://chelsa-climate.org/ - CHELSA (Climatologies at high resolution for the earth’s land surface areas) is a very high resolution (30 arc sec, ~1km) global climate data set currently hosted by the Swiss Federal Institute for Forest, Snow and Landscape Research WSL.
+- https://www.worldclim.org - Global climate and weather data
 - https://www.globalclimatemonitor.org/ - Historical climate data web viewer and downloader
+- http://chelsa-climate.org/ - CHELSA (Climatologies at high resolution for the earth’s land surface areas) is a very high resolution (30 arc sec, ~1km) global climate data set currently hosted by the Swiss Federal Institute for Forest, Snow and Landscape Research WSL.
 
 ### Disaster Risk Reduction (DRR)
 
