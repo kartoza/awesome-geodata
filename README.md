@@ -233,6 +233,10 @@ These are typically expected to be at global or continental scale at least. Loca
 - https://www.globalclimatemonitor.org/ - Historical climate data web viewer and downloader
 - http://chelsa-climate.org/ - CHELSA (Climatologies at high resolution for the earth’s land surface areas) is a very high resolution (30 arc sec, ~1km) global climate data set currently hosted by the Swiss Federal Institute for Forest, Snow and Landscape Research WSL.
 
+#### Rainfall
+
+- https://data.chc.ucsb.edu/products/CHIRPS-2.0/global_annual/tifs/ - University of California, Santa Barbara [Climate Hazards Group InfraRed Precipitation with Station](https://www.chc.ucsb.edu/data/chirps) data.
+
 ### Disaster Risk Reduction (DRR)
 
 - https://www.geonode-gfdrrlab.org/ - The Global Facility for Disaster Reduction and Recovery GeoNode instance
