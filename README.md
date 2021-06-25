@@ -260,6 +260,10 @@ These are typically expected to be at global or continental scale at least. Loca
 
 - https://data.humdata.org/ - The Humanitarian Data Exchange
 
+### Landcover
+
+https://livingatlas.arcgis.com/landcover/ - Global 10m Landcover developed by Impact Observatory using Sentinel-2 data and published by Esri
+
 ### Remote Sensing
 
 - https://glovis.usgs.gov/ - USGS Global Visualization Viewer (GloVis)
