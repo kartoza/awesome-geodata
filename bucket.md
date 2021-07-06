@@ -51,6 +51,12 @@ Data services for the African Continent
 
 Data sources managed at the national level.
 
+#### NZ
+
+New Zealand
+
+- :unlock: https://www.linz.govt.nz/data/linz-data-service/guides-and-documentation/using-the-linz-data-importer-plugin-in-qgis - Includes links to services for LINZ, Environment, Stats, landcare, defence, and basemaps
+
 #### ZA
 
 The republic of South Africa
