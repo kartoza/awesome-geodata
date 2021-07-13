@@ -14,7 +14,7 @@ Please be responsible when consuming and utilising the services listed here. Man
 
 The majority of these services have their own terms and conditions, licensing requirements, usage policies, and rate limits.
 
-Everyone who makes use of these services should endeavour to comply with them as much as possible. Failure to do soo may result in penalties and/ or legal action.
+Everyone who makes use of these services should endeavour to comply with them as much as possible. Failure to do so may result in penalties and/ or legal action.
 
 If you are utilising a service for commercial purposes, please consider using a commercial provider or hosting the relevant data and services on your own infrastructure to prevent abuse of public resources. If using a public resource in a public or open source application, it is expected that you should implement some form of rate limiting in the client applications to prevent abuse by your users.
 
@@ -165,7 +165,7 @@ The United States of America
 - https://catalog.data.gov/dataset - US Government Data Portal based on the CKAN platform
 - https://github.com/Microsoft/USBuildingFootprints - Microsoft Building Footprints for the US
 
-## Oklahoma
+##### Oklahoma
 
  - https://gis-okdot.opendata.arcgis.com - Oklahoma Department of Transport Geodata
 
