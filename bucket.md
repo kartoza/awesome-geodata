@@ -51,6 +51,10 @@ Data services for the African Continent
 
 Data sources managed at the national level.
 
+#### CA
+
+- https://geohist.ca/ - Historical GIS project for Canada
+
 #### NZ
 
 New Zealand
