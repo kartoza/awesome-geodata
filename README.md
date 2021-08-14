@@ -129,6 +129,10 @@ Data portals offered at continental, subcontinent or regional level
 
 Data services for the African Continent
 
+##### Earth Observation
+
+- https://maps.digitalearth.africa - map and interactive data browser for the [Digital Earth Africa](https://www.digitalearthafrica.org/) project
+
 ##### Civic Technology
 
 Portals, data hubs, and catalogues curated by civic technology agencies and community projects
