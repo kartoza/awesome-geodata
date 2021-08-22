@@ -131,7 +131,8 @@ Data services for the African Continent
 
 ##### Earth Observation
 
-- https://maps.digitalearth.africa - map and interactive data browser for the [Digital Earth Africa](https://www.digitalearthafrica.org/) project
+- https://maps.digitalearth.africa - Map and interactive data browser for the [Digital Earth Africa](https://www.digitalearthafrica.org/) project
+- https://docs.digitalearthafrica.org/en/latest/ - Docs, user guides, and links to data platforms such as the metadata catalogue for the [Digital Earth Africa](https://www.digitalearthafrica.org/) project
 
 ##### Civic Technology
 
