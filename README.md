@@ -100,6 +100,7 @@ High level data services and sources that provide information at the global leve
 - :gem: https://neo.sci.gsfc.nasa.gov/ - NASA Earth Observations
 - :unlock: https://urs.earthdata.nasa.gov/ - NASA Earth Explorer
 - :unlock: https://dwtkns.com/srtm30m/ - Simple web service for getting relevant SRTM data from the NASA Earth Explorer
+- :gem: https://stacindex.org/ - An index site for known [STAC](https://stacspec.org/) catalogues
 
 #### OpenStreetMap (OSM)
 
