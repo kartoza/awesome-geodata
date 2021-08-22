@@ -104,7 +104,7 @@ High level data services and sources that provide information at the global leve
 
 #### OpenStreetMap (OSM)
 
-OpenStreetMap is a community world mapping project and the de facto Open Geographic Data collection
+[OpenStreetMap](https://www.openstreetmap.org/about) is a community world mapping project and the de facto open collection of geographic vector data
 
 - :gem: :zero: https://wiki.openstreetmap.org/wiki/Downloading_data - Full article on accessing data from OSM
 - :gem: :zero: https://download.geofabrik.de/ - Snapshots of OSM data in PBF and SHP formats
