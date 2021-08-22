@@ -108,7 +108,8 @@ High level data services and sources that provide information at the global leve
 
 - :gem: :zero: https://wiki.openstreetmap.org/wiki/Downloading_data - Full article on accessing data from OSM
 - :gem: :zero: https://download.geofabrik.de/ - Snapshots of OSM data in PBF and SHP formats
-- :hammer_and_wrench: :gem: :zero: https://www.hotosm.org/tools-and-data - Humanitarian Open Streetmap Team tools and data
+- :hammer_and_wrench: :gem: :zero: https://www.hotosm.org/tools-and-data - Tools and data utilities from the Humanitarian Open Streetmap Team
+- :zero: :unlock: https://www.hotosm.org/tools-and-data - HOTOSM export tool
 - :hammer_and_wrench: :gem: :zero: https://github.com/kartoza/docker-osm - a docker project for running a local copy of OSM (optionally restricted to a specific target area) which is kept in sync with OSM updates, storing the resulting data (for configured tags) in a PostGIS database. Based on [imposm](https://imposm.org/)
 
 #### Other
