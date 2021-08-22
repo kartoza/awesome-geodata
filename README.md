@@ -131,6 +131,8 @@ Data portals offered at continental, subcontinent or regional level
 
 Data services for the African Continent
 
+- https://sites.research.google/open-buildings/ - AI derived building footprints for the African continent developed by Google
+
 ##### Earth Observation
 
 - https://maps.digitalearth.africa - Map and interactive data browser for the [Digital Earth Africa](https://www.digitalearthafrica.org/) project
