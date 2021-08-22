@@ -231,6 +231,7 @@ These are typically expected to be at global or continental scale at least. Loca
 
 - https://www.gbif.org/ - Global Biodiversity Information Facility provides free and open access to biodiversity data and species observations
 - https://geobon.org/ - Group on Earth Observations biodiversity observation network
+- https://www.genesys-pgr.org/ - Plant Genetic Resources for Food and Agriculture (PGRFA)
 
 ### Climate
 
