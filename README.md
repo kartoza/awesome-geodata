@@ -42,32 +42,32 @@ This list uses emoji to highlight some characteristic of a service or platform w
 
 ### Access
 
-* :unlock: - Authwalled (account is required)
-* :gem: - Public/ Open
-* :icecream: - Free (Gratis but proprietary)
-* :money_with_wings: - Freemium (Pay nothing now but much later)
-* :moneybag: - Commercial (Requires license)
-* :muscle: - The site has reliable support (This includes funding or infrastructure provided by a large foundation, NGO, public agency, corporation, or significant corporate sponsorship and should be indicative that it is expected to have continued support for the medium to long term, or 5-10 years, without changes to it's terms of use even if it experiences a sudden rise in popularity, making it suitable for use in production. It should also indicate mature services with wide userbase which are unlikely to introduce breaking changes)
-* :alien: - The site acts strange, asks you to jump through hoops to get data, and may not be totally altruistic
+- :unlock: - Authwalled (account is required)
+- :gem: - Public/ Open
+- :icecream: - Free (Gratis but proprietary)
+- :money_with_wings: - Freemium (Pay nothing now but much later)
+- :moneybag: - Commercial (Requires license)
+- :muscle: - The site has reliable support (This includes funding or infrastructure provided by a large foundation, NGO, public agency, corporation, or significant corporate sponsorship and should be indicative that it is expected to have continued support for the medium to long term, or 5-10 years, without changes to it's terms of use even if it experiences a sudden rise in popularity, making it suitable for use in production. It should also indicate mature services with wide userbase which are unlikely to introduce breaking changes)
+- :alien: - The site acts strange, asks you to jump through hoops to get data, and may not be totally altruistic
 
 ### Licensing
 
 Licensing information is provided where possible, however it is subject to error and may change at any time.
 
-* :zero: - Public (Open Data/ Open Source/ Public Domain/ Copyfree/ Commons)
-* :warning: - No license information given
-* :copyright: - Various, depending on specific data
-* :no_entry: -  Copyright and data limitations apply
+- :zero: - Public (Open Data/ Open Source/ Public Domain/ Copyfree/ Commons)
+- :warning: - No license information given
+- :copyright: - Various, depending on specific data
+- :no_entry: - Copyright and data limitations apply
 
 > Note that "Public" or "Commons" licenses are not without requirements or limitations.
 
 ### Validity
 
-* {{YYYY}} :recycle: - Checked and verified to be working at date/ year
-* {{YYYY}} :hourglass: - Service online but seems to be struggling with performance/ scale/ load etc
-* {{YYYY}} :grey_exclamation: - Service online but seems to have maintenance issues (invalid ssl etc)
-* {{YYYY}} :interrobang: - Service checked and seems to be unavailable
-* {{YYYY}} :exclamation: - Service is deprecated and expected to go offline at the date listed
+- {{YYYY}} :recycle: - Checked and verified to be working at date/ year
+- {{YYYY}} :hourglass: - Service online but seems to be struggling with performance/ scale/ load etc
+- {{YYYY}} :grey_exclamation: - Service online but seems to have maintenance issues (invalid ssl etc)
+- {{YYYY}} :interrobang: - Service checked and seems to be unavailable
+- {{YYYY}} :exclamation: - Service is deprecated and expected to go offline at the date listed
 
 An extended legend is provided at the bottom of the list to assist with additional categorisations and content discovery.
 
@@ -162,6 +162,12 @@ Canada
 - https://geodiscover.alberta.ca - Enhanced details on Alberta's geospatial data
 - https://open.alberta.ca/opendata - Alberta Open Data Portal (includes spatial data)
 
+#### FR
+
+France
+
+- https://cadastre.data.gouv.fr/ - French cadastral portal, including [data downloads](https://cadastre.data.gouv.fr/data/etalab-cadastre/) from the open [etalab cadstre project](https://github.com/etalab/cadastre)
+
 #### KE
 
 Kenya
@@ -177,7 +183,7 @@ The United States of America
 
 ##### Oklahoma
 
- - https://gis-okdot.opendata.arcgis.com - Oklahoma Department of Transport Geodata
+- https://gis-okdot.opendata.arcgis.com - Oklahoma Department of Transport Geodata
 
 #### ZA
 
