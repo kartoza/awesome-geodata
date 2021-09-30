@@ -117,7 +117,7 @@ High level data services and sources that provide information at the global leve
 Private tools, commercial vendors and other useful Earth Science links.
 
 - https://openaddresses.io/ - Open Data Address Information Project
-- https://opentopography.org/ - High-Resolution Topography Data and Tools and data aggregation site
+- https://opentopography.org/ - High-Resolution Topography Data and Tools and data aggregation site, including LiDAR and DEM coverages
 - https://map.openaerialmap.org - Openly licensed aerial imagery data from satellites, aircraft and UAV
 - https://developers.google.com/earth-engine/datasets/catalog/ - Googles Earth Science Platform
 - https://registry.opendata.aws/?search=tags:gis,earth%20observation,events,mapping,meteorological,environmental,transportation - Geodata from Amazon Web Services
