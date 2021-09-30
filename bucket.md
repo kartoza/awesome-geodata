@@ -46,7 +46,6 @@ Data services for the African Continent
 - 2021 :recycle: http://www.pacgeo.org/ - An open access geospatial data repository for the Pacific Region providing premier geophysical, geodetic, and marine spatial data sets.
 - 2021 :recycle: http://pcrafi.spc.int/ - Pacific Risk Information System
 
-
 ### Countries
 
 Data sources managed at the national level.
@@ -104,6 +103,7 @@ Geodata and related resources which don't quite fit any of the above categories.
 - https://github.com/Qwant/qwantmaps - maps by https://www.qwant.com/
 - http://map.wikimedia.ch/
 - https://tile.synapta.io/styles/osm-bright/{z}/{x}/{y}.png
+- https://gedi.umd.edu/data/download/ - Ecosystem LiDAR
 
 ## Protips
 
