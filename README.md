@@ -280,6 +280,10 @@ These are typically expected to be at global or continental scale at least. Loca
 
 - https://data.humdata.org/ - The Humanitarian Data Exchange
 
+### Hydrology
+
+- https://ggis.un-igrac.org/ - International Groundwater Resources Assessment Centre (IGRAC) Global Groundwater Information System (GGIS)
+
 ### Landcover
 
 https://livingatlas.arcgis.com/landcover/ - Global 10m Landcover developed by Impact Observatory using Sentinel-2 data and published by Esri
