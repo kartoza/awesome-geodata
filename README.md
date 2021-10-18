@@ -92,6 +92,7 @@ High level data services and sources that provide information at the global leve
 
 - :muscle: :gem: https://data.worldbank.org/ - Worldbank Data Catalogue
 - :gem: https://www.naturalearthdata.com/ - High level world data useful for cartography
+- :gem: https://www.geoboundaries.org/index.html#getdata - Global Database of Political Administrative Boundaries with custom attribution license
 - :moneybag: https://gadm.org/ - Initiative to maintain high resolution administrative area boundaries for all countries globally. Free for academic and non-commercial use, however commercial use or redistribution requires special permission.
 - :muscle: https://www.copernicus.eu/en/access-data - European Space Agency Copernicus programme data
 - :muscle: https://scihub.copernicus.eu/dhus/#/home - Interactive Copernicus data browser
