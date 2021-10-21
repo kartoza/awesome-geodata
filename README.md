@@ -97,6 +97,7 @@ High level data services and sources that provide information at the global leve
 - :muscle: https://www.copernicus.eu/en/access-data - European Space Agency Copernicus programme data
 - :muscle: https://scihub.copernicus.eu/dhus/#/home - Interactive Copernicus data browser
 - :muscle: https://inspire-geoportal.ec.europa.eu/ - Infrastructure for Spatial Information in the European Community Geoportal
+- :muscle: https://esa-worldcover.org/en/data-access - WorldCover is a freely accessible global land cover product at 10 m resolution for 2020, based on both Sentinel-1 and Sentinel-2 data initiative provided by the European Space Agency (ESA) initially released on 10/2021. This site includes access to WorldCover web services, data downloads, symbology files, and more.
 - :muscle: https://earthdata.nasa.gov/ - Nasa Earth Data Open Access Portal
 - :muscle: https://wiki.earthdata.nasa.gov/display/GIBS/ - The NASA Earth Data Global Imagery Browse Services
 - :gem: https://neo.sci.gsfc.nasa.gov/ - NASA Earth Observations
