@@ -78,6 +78,10 @@ The following outline lists of spatial datasources similar to this list:
 - A List of related but dissimilar community lists is available in the "Prior Art" section of the [About Page](about.md#prior-art)
 - https://en.wikipedia.org/wiki/List_of_GIS_data_sources - Wikipedia equivalent of awesome-geodata
 
+## Catalogues
+
+This list is primarily for targeting legacy platforms, services, web interfaces, and data sources which cannot be automatically be traversed using some catalog software or platform. As the OGC APIs mature, and technologies such as OAFeat and STAC become more widely used, this would become redundant. If there is a better tool for discovering certain service types, such as stacindex.org, this list should rather link to that resource than individual endpoints available from those platforms.
+
 ## Geodata Regions
 
 Data services are primarily categorised by geographic region.
