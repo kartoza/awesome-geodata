@@ -271,6 +271,7 @@ These are typically expected to be at global or continental scale at least. Loca
 ### Earth Observation
 
 - :hammer_and_wrench: :gem: https://github.com/sentinelsat/sentinelsat - A python library for searching and retrieving sentinel imagery
+- https://landsatlook.usgs.gov/explore - Tool for online viewing and access to the USGS Landsat Collection 2 data. Also includes a stac API at https://landsatlook.usgs.gov/sat-api/
 
 ### Energy
 
