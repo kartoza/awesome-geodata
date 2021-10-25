@@ -267,6 +267,7 @@ These are typically expected to be at global or continental scale at least. Loca
 ### Disaster Risk Reduction (DRR)
 
 - https://www.geonode-gfdrrlab.org/ - The Global Facility for Disaster Reduction and Recovery GeoNode instance
+- :volcano: https://earthquake.usgs.gov/earthquakes/search/ - USGS earthquake data portal, including a search for retrieving spatial data such as kml
 
 ### Earth Observation
 
