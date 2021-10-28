@@ -108,6 +108,7 @@ High level data services and sources that provide information at the global leve
 - :unlock: https://urs.earthdata.nasa.gov/ - NASA Earth Explorer
 - :unlock: https://dwtkns.com/srtm30m/ - Simple web service for getting relevant SRTM data from the NASA Earth Explorer
 - https://www.usgs.gov/products/data-and-tools/overview - usgs has many resources
+- https://www.fao.org/geospatial/resources/data-portals/ - Spatial data portals from the Food and Agriculture Organization of the United Nations
 - :gem: https://stacindex.org/ - An index site for known [STAC](https://stacspec.org/) catalogues
 
 #### OpenStreetMap (OSM)
