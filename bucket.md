@@ -105,6 +105,7 @@ Geodata and related resources which don't quite fit any of the above categories.
 - http://map.wikimedia.ch/
 - https://tile.synapta.io/styles/osm-bright/{z}/{x}/{y}.png
 - https://gedi.umd.edu/data/download/ - Ecosystem LiDAR
+- https://github.com/CS-SI/eodag - Earth Observation Data Access Gateway
 
 ## Protips
 
