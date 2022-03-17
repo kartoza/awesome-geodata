@@ -9,6 +9,7 @@ Same format as the list. Things have probably just not been scoped out properly 
 High level data services and sources that provide information at the global level.
 
 - :alien: :unlock: https://www.igismap.com/download-free-shapefile-maps/ - igismap data collections
+- :clock10: https://github.com/globalmaps
 
 #### Other
 
