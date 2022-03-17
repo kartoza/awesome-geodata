@@ -42,8 +42,8 @@ This list uses emoji to highlight some characteristic of a service or platform w
 
 ### Access
 
-- :unlock: - Authwalled (account is required)
 - :gem: - Public/ Open
+- :unlock: - Authwalled (account is required)
 - :icecream: - Free (Gratis but proprietary)
 - :money_with_wings: - Freemium (Pay nothing now but much later)
 - :moneybag: - Commercial (Requires license)
