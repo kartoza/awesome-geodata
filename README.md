@@ -104,12 +104,12 @@ High level data services and sources that provide information at the global leve
 - :muscle: https://esa-worldcover.org/en/data-access - WorldCover is a freely accessible global land cover product at 10 m resolution for 2020, based on both Sentinel-1 and Sentinel-2 data initiative provided by the European Space Agency (ESA) initially released on 10/2021. This site includes access to WorldCover web services, data downloads, symbology files, and more.
 - :muscle: https://earthdata.nasa.gov/ - Nasa Earth Data Open Access Portal
 - :muscle: https://wiki.earthdata.nasa.gov/display/GIBS/ - The NASA Earth Data Global Imagery Browse Services
-- :gem: https://neo.sci.gsfc.nasa.gov/ - NASA Earth Observations
-- :muscle: :gem: https://sedac.ciesin.columbia.edu/ - NASA Socioeconomic Data and Applications Center (SEDAC)
-- :unlock: https://urs.earthdata.nasa.gov/ - NASA Earth Explorer
+- :muscle: :gem: https://neo.sci.gsfc.nasa.gov/ - NASA Earth Observations
+- :muscle: :unlock: https://sedac.ciesin.columbia.edu/ - NASA Socioeconomic Data and Applications Center (SEDAC)
+- :muscle: :unlock: https://urs.earthdata.nasa.gov/ - NASA Earth Explorer
 - :unlock: https://dwtkns.com/srtm30m/ - Simple web service for getting relevant SRTM data from the NASA Earth Explorer
-- https://www.usgs.gov/products/data-and-tools/overview - usgs has many resources
-- https://www.fao.org/geospatial/resources/data-portals/ - Spatial data portals from the Food and Agriculture Organization of the United Nations
+- :muscle: https://www.usgs.gov/products/data-and-tools/overview - usgs has many resources
+- :muscle: https://www.fao.org/geospatial/resources/data-portals/ - Spatial data portals from the Food and Agriculture Organization of the United Nations
 - :gem: https://stacindex.org/ - An index site for known [STAC](https://stacspec.org/) catalogues
 
 #### OpenStreetMap (OSM)
