@@ -2,7 +2,7 @@
 
 The less-curated, catch-all, less awesome list of geodata services.
 
-Same format as the list. Things have probably just not been scoped out properly yet.
+Same format as the list. Things have probably just not been scoped out properly yet. :clock10: Indicates a legacy/ deprecated/ unmaintained service.
 
 #### General
 
