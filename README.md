@@ -184,6 +184,12 @@ Kenya
 
 - :blossom: https://tanaribbis.org/ - Biodiversity portal for Kenya
 
+#### NZ
+
+New Zealand
+
+- https://www.linz.govt.nz/ - Toitū Te Whenua Land Information New Zealand
+
 #### US
 
 The United States of America
