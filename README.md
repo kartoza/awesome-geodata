@@ -189,6 +189,7 @@ Kenya
 New Zealand
 
 - https://www.linz.govt.nz/ - Toitū Te Whenua Land Information New Zealand
+- https://lris.scinfo.org.nz/ - New Zealand Land Resource Information Systems Portal
 
 #### US
 
