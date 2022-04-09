@@ -59,6 +59,10 @@ with the following keys used for reference:
 
 An extended legend is provided at the bottom of the list to assist with additional categorisations and content discovery.
 
+### Licensing
+
+Licensing information is provided where possible, however it is subject to error and may change at any time.
+
 ## Other Lists
 
 The following outline lists of spatial datasources similar to this list:
