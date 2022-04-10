@@ -38,28 +38,16 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Legend
 
-This list uses emoji to highlight some characteristic of a service or platform with the following keys used for reference:
+This list uses emoji to highlight some characteristic of a service or platform.
+
+The GeoMoji project [github.com/zacharlie/geomoji](https://github.com/zacharlie/geomoji) will serve as a reference for the emoji used in this list, along with the extended definitions as outlined below.
+
+with the following keys used for reference:
 
 ### Access
 
-- :unlock: - Authwalled (account is required)
-- :gem: - Public/ Open
-- :icecream: - Free (Gratis but proprietary)
-- :money_with_wings: - Freemium (Pay nothing now but much later)
-- :moneybag: - Commercial (Requires license)
 - :muscle: - The site has reliable support (This includes funding or infrastructure provided by a large foundation, NGO, public agency, corporation, or significant corporate sponsorship and should be indicative that it is expected to have continued support for the medium to long term, or 5-10 years, without changes to it's terms of use even if it experiences a sudden rise in popularity, making it suitable for use in production. It should also indicate mature services with wide userbase which are unlikely to introduce breaking changes)
 - :alien: - The site acts strange, asks you to jump through hoops to get data, and may not be totally altruistic
-
-### Licensing
-
-Licensing information is provided where possible, however it is subject to error and may change at any time.
-
-- :zero: - Public (Open Data/ Open Source/ Public Domain/ Copyfree/ Commons)
-- :warning: - No license information given
-- :copyright: - Various, depending on specific data
-- :no_entry: - Copyright and data limitations apply
-
-> Note that "Public" or "Commons" licenses are not without requirements or limitations.
 
 ### Validity
 
@@ -70,6 +58,10 @@ Licensing information is provided where possible, however it is subject to error
 - {{YYYY}} :exclamation: - Service is deprecated and expected to go offline at the date listed
 
 An extended legend is provided at the bottom of the list to assist with additional categorisations and content discovery.
+
+### Licensing
+
+Licensing information is provided where possible, however it is subject to error and may change at any time.
 
 ## Other Lists
 
@@ -104,11 +96,12 @@ High level data services and sources that provide information at the global leve
 - :muscle: https://esa-worldcover.org/en/data-access - WorldCover is a freely accessible global land cover product at 10 m resolution for 2020, based on both Sentinel-1 and Sentinel-2 data initiative provided by the European Space Agency (ESA) initially released on 10/2021. This site includes access to WorldCover web services, data downloads, symbology files, and more.
 - :muscle: https://earthdata.nasa.gov/ - Nasa Earth Data Open Access Portal
 - :muscle: https://wiki.earthdata.nasa.gov/display/GIBS/ - The NASA Earth Data Global Imagery Browse Services
-- :gem: https://neo.sci.gsfc.nasa.gov/ - NASA Earth Observations
-- :unlock: https://urs.earthdata.nasa.gov/ - NASA Earth Explorer
+- :muscle: :gem: https://neo.sci.gsfc.nasa.gov/ - NASA Earth Observations
+- :muscle: :unlock: https://sedac.ciesin.columbia.edu/ - NASA Socioeconomic Data and Applications Center (SEDAC)
+- :muscle: :unlock: https://urs.earthdata.nasa.gov/ - NASA Earth Explorer
 - :unlock: https://dwtkns.com/srtm30m/ - Simple web service for getting relevant SRTM data from the NASA Earth Explorer
-- https://www.usgs.gov/products/data-and-tools/overview - usgs has many resources
-- https://www.fao.org/geospatial/resources/data-portals/ - Spatial data portals from the Food and Agriculture Organization of the United Nations
+- :muscle: https://www.usgs.gov/products/data-and-tools/overview - usgs has many resources
+- :muscle: https://www.fao.org/geospatial/resources/data-portals/ - Spatial data portals from the Food and Agriculture Organization of the United Nations
 - :gem: https://stacindex.org/ - An index site for known [STAC](https://stacspec.org/) catalogues
 
 #### OpenStreetMap (OSM)
@@ -182,6 +175,13 @@ France
 Kenya
 
 - :blossom: https://tanaribbis.org/ - Biodiversity portal for Kenya
+
+#### NZ
+
+New Zealand
+
+- https://www.linz.govt.nz/ - Toitū Te Whenua Land Information New Zealand
+- https://lris.scinfo.org.nz/ - New Zealand Land Resource Information Systems Portal
 
 #### US
 
@@ -262,6 +262,7 @@ These are typically expected to be at global or continental scale at least. Loca
 - https://www.globalclimatemonitor.org/ - Historical climate data web viewer and downloader
 - http://www.climatologylab.org/terraclimate.html - Monthly climate and climatic water balance data for global terrestrial surfaces from 1958-2019
 - http://chelsa-climate.org/ - CHELSA (Climatologies at high resolution for the earth’s land surface areas) is a very high resolution (30 arc sec, ~1km) global climate data set currently hosted by the Swiss Federal Institute for Forest, Snow and Landscape Research WSL.
+- https://cds.climate.copernicus.eu/ - Copernicus Climate Data Store
 
 #### Precipitation
 
@@ -276,6 +277,10 @@ These are typically expected to be at global or continental scale at least. Loca
 
 - :hammer_and_wrench: :gem: https://github.com/sentinelsat/sentinelsat - A python library for searching and retrieving sentinel imagery
 - https://landsatlook.usgs.gov/explore - Tool for online viewing and access to the USGS Landsat Collection 2 data. Also includes a stac API at https://landsatlook.usgs.gov/sat-api/
+
+#### Atmospheric
+
+- https://ads.atmosphere.copernicus.eu/ - Copernicus Atmospheric Data Store
 
 ### Energy
 
@@ -387,47 +392,6 @@ The [QGIS plugin repository](https://plugins.qgis.org/plugins/) provides communi
 - :gem: [QuickOSM](https://github.com/3liz/QuickOSM), available from the [official plugin repository](https://plugins.qgis.org/plugins/QuickOSM/), provides easy access to Open Street Map vector data via the overpass API.
 - :unlock: :money_with_wings: [Google Earth Engine Data Catalog](https://github.com/sandroklippel/qgis_gee_data_catalog), available from the [official plugin repository](https://plugins.qgis.org/plugins/qgis_gee_data_catalog/), provides easy access to GEE Data within QGIS.
 - :unlock: :money_with_wings: [MapTiler Plugin](https://www.maptiler.com/qgis-plugin/)
-
-## Extended Legend
-
-Many services may cater to a specific topic/ category or type of data. In order to suitably identify these data types visually the following emoji may be appended to an entry to outline the relevant characteristics.
-
-### ISO 19115 Topic Category
-
-Emoji keys for outlining data and services specific to a valid ISO 19115 Category
-
-- :blossom: Biota
-- :world_map: Boundaries
-- :sunny: Climatology Meteorology Atmosphere
-- :receipt: Economy
-- :mountain: Elevation
-- :leaves: Environment
-- :seedling: Farming
-- :volcano: Geoscientific Information
-- :hospital: Health
-- :earth_africa: Imagery Base Maps Earth Cover
-- :satellite: Intelligence Military
-- :droplet: Inland Waters
-- :compass: Location
-- :ocean: Oceans
-- :toolbox: Planning Cadastre
-- :family: Society
-- :bricks: Structure
-- :bike: Transportation
-- :telephone_receiver: Utilities Communication
-
-### Service Type
-
-- :hammer_and_wrench: Tools
-- :globe_with_meridians: Web Service
-- :artificial_satellite: Satellite
-- :mount_fuji: Geology and Soils
-- :beach_umbrella: Tourism
-- :briefcase: Business Intelligence
-- :robot: AI/ ML
-- :zap: Energy
-- :handshake: Humanitarian
-- :national_park: Conservation
 
 ### Vendors
 

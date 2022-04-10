@@ -2,13 +2,14 @@
 
 The less-curated, catch-all, less awesome list of geodata services.
 
-Same format as the list. Things have probably just not been scoped out properly yet.
+Same format as the list. Things have probably just not been scoped out properly yet. :clock10: Indicates a legacy/ deprecated/ unmaintained service.
 
 #### General
 
 High level data services and sources that provide information at the global level.
 
 - :alien: :unlock: https://www.igismap.com/download-free-shapefile-maps/ - igismap data collections
+- :clock10: https://github.com/globalmaps
 
 #### Other
 
@@ -104,6 +105,7 @@ Geodata and related resources which don't quite fit any of the above categories.
 - http://map.wikimedia.ch/
 - https://tile.synapta.io/styles/osm-bright/{z}/{x}/{y}.png
 - https://gedi.umd.edu/data/download/ - Ecosystem LiDAR
+- https://github.com/CS-SI/eodag - Earth Observation Data Access Gateway
 
 ## Protips
 
