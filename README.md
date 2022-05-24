@@ -125,6 +125,7 @@ Private tools, commercial vendors and other useful Earth Science links.
 - https://registry.opendata.aws/?search=tags:gis,earth%20observation,events,mapping,meteorological,environmental,transportation - Geodata from Amazon Web Services
 - https://store.usgs.gov/ - View, purchase, and download data and maps, including access to historical topomap collections
 - https://planetarycomputer.microsoft.com/catalog - Microsoft Earth Observation platform
+- https://github.com/microsoft/GlobalMLBuildingFootprints - Global Building Footprints from Microsoft derived from machine learning
 
 ### Continental
 
