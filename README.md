@@ -183,6 +183,7 @@ New Zealand
 
 - https://www.linz.govt.nz/ - Toitū Te Whenua Land Information New Zealand
 - https://lris.scinfo.org.nz/ - New Zealand Land Resource Information Systems Portal
+- https://datafinder.stats.govt.nz/ - [Stats NZ](https://www.stats.govt.nz/) Geographic data service
 
 #### US
 
