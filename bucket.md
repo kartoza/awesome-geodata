@@ -79,6 +79,10 @@ Portals, datahubs and catalogues curated by third party agencies and community p
 
 Resources for discovering service endpoints of international importance and utility
 
+https://wiki.earthdata.nasa.gov/display/GIBS/
+https://nasa-gibs.github.io/gibs-api-docs/available-visualizations/#visualization-product-catalog
+e.g. https://map1b.vis.earthdata.nasa.gov/wmts-webmerc/BlueMarble_ShadedRelief_Bathymetry/default/{Time}/GoogleMapsCompatible_Level8/{z}/{x}/{y}.jpg
+
 - http://osgeo-org.1560.x6.nabble.com/Public-vector-tile-servers-td5453345.html - Discussion on public vector tiles services
 - https://gis.stackexchange.com/questions/20191/adding-basemaps-from-google-or-bing-in-qgis - Community list of XYZ Tile services
 

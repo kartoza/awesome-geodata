@@ -183,6 +183,7 @@ New Zealand
 
 - https://www.linz.govt.nz/ - Toitū Te Whenua Land Information New Zealand
 - https://lris.scinfo.org.nz/ - New Zealand Land Resource Information Systems Portal
+- https://datafinder.stats.govt.nz/ - [Stats NZ](https://www.stats.govt.nz/) Geographic data service
 
 #### US
 
@@ -210,6 +211,7 @@ The Republic of South Africa
 - :world_map: https://dataportal-mdb-sa.opendata.arcgis.com/ - Municipal Demarcation board Data
 - :blossom: https://bgis.sanbi.org/ - South African National Biodiversity Institute Spatial Data Portal
 - :blossom: https://freshwaterbiodiversity.org/ - Freshwater Biodiversity Information System (FBIS)
+- :bike: https://atns.com/products-services/aim/aeronautical-information-managementrsa-airspaces-in-3d/7423/ - 3D KMZ for South African Aviation data including airspace, routes, aerodromes and navigational facilities within South Africa compiled by Air Traffic and Navigation Services SOC Limited
 
 ##### Metros and Municipalities
 
