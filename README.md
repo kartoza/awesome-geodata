@@ -261,6 +261,7 @@ These are typically expected to be at global or continental scale at least. Loca
 
 ### Climate
 
+- https://climateknowledgeportal.worldbank.org/ - Interactive knowledge portal for climate change data
 - https://www.worldclim.org - Global climate and weather data
 - https://www.globalclimatemonitor.org/ - Historical climate data web viewer and downloader
 - http://www.climatologylab.org/terraclimate.html - Monthly climate and climatic water balance data for global terrestrial surfaces from 1958-2019
