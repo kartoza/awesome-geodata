@@ -122,6 +122,7 @@ Private tools, commercial vendors and other useful Earth Science links.
 - https://opentopography.org/ - High-Resolution Topography Data and Tools and data aggregation site, including LiDAR and DEM coverages
 - https://map.openaerialmap.org - Openly licensed aerial imagery data from satellites, aircraft and UAV
 - https://developers.google.com/earth-engine/datasets/catalog/ - Googles Earth Science Platform
+- [LYRASENSE](https://lyrasense.com) - Geospatial analytics platform with access to 800+ satellite data sources (90+ PB) and an agentic notebook for analysis.
 - https://registry.opendata.aws/?search=tags:gis,earth%20observation,events,mapping,meteorological,environmental,transportation - Geodata from Amazon Web Services
 - https://store.usgs.gov/ - View, purchase, and download data and maps, including access to historical topomap collections
 - https://planetarycomputer.microsoft.com/catalog - Microsoft Earth Observation platform
