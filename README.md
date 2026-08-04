@@ -185,6 +185,12 @@ New Zealand
 - https://lris.scinfo.org.nz/ - New Zealand Land Resource Information Systems Portal
 - https://datafinder.stats.govt.nz/ - [Stats NZ](https://www.stats.govt.nz/) Geographic data service
 
+#### TR
+
+Türkiye
+
+- https://kahvetabela.com/en/acik-veri - Cultural heritage atlas: 32,000+ registered heritage places with WGS84 coordinates, category, province and district, plus audited Wikidata IDs. Versioned CSV/JSON downloads with a sha256 integrity manifest, a free JSON API with an OpenAPI spec, and a Zenodo DOI. Layered licensing documented per source (CC BY, ODbL, CC0).
+
 #### US
 
 The United States of America
