@@ -184,6 +184,9 @@ New Zealand
 - https://www.linz.govt.nz/ - Toitū Te Whenua Land Information New Zealand
 - https://lris.scinfo.org.nz/ - New Zealand Land Resource Information Systems Portal
 - https://datafinder.stats.govt.nz/ - [Stats NZ](https://www.stats.govt.nz/) Geographic data service
+- https://data-aucklandcouncil.opendata.arcgis.com/ - Auckland Council open data portal; the underlying [GeoMaps ArcGIS REST services](https://devstack.co.nz/development-tools/auckland-council-geomaps-api) return zone and parcel geometry as JSON with no API key, CC-BY 4.0
+- https://data-atgis.opendata.arcgis.com/ - [Auckland Transport Open GIS Data](https://devstack.co.nz/development-tools/auckland-transport-gis-api) - parking, cycle network, road and bus layers as queryable ArcGIS REST, no key required, weekly refresh
+- https://unitaryplan.aucklandcouncil.govt.nz/ - Auckland Unitary Plan; zone polygons are [queryable programmatically](https://devstack.co.nz/development-tools/auckland-unitary-plan-api) though the rule text is not
 
 #### TR
 
