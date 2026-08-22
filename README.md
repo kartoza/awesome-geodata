@@ -261,6 +261,9 @@ Data services that are relevant to a specific topic or scientific field.
 
 These are typically expected to be at global or continental scale at least. Local or regional services should be categorised by region.
 
+### Aviation
+
+- 2026 :recycle: :unlock: https://adsbiq.com/api/other/parquet - Worldwide community-sourced ADS-B aircraft positions and state changes, published daily as ODbL-1.0 compressed Parquet with checksums, schema documentation, a sample, and Data Package metadata.
 ### Biodiversity Information
 
 - https://www.gbif.org/ - Global Biodiversity Information Facility provides free and open access to biodiversity data and species observations
