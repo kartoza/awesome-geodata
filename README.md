@@ -193,6 +193,7 @@ New Zealand
 Türkiye
 
 - https://kahvetabela.com/en/acik-veri - Cultural heritage atlas: 32,000+ registered heritage places with WGS84 coordinates, category, province and district, plus audited Wikidata IDs. Versioned CSV/JSON downloads with a sha256 integrity manifest, a free JSON API with an OpenAPI spec, and a Zenodo DOI. Layered licensing documented per source (CC BY, ODbL, CC0).
+- https://github.com/Ayberkrk/turkiye-deprem-verisi - Turkey-specific earthquake catalogue and seismic waveform dataset: 84,100 deduplicated events (USGS+EMSC+ISC, 1990-present) and 5,413 real multi-component strong-motion/broadband waveform records with engineering features (PGA/PGV/Sa/Arias/CAV) and site classification (Vs30/NEHRP, 277 stations). Also mirrored on [Hugging Face](https://huggingface.co/datasets/Ayberkkr/turkiye-deprem-verisi), with a Zenodo DOI ([10.5281/zenodo.22754705](https://doi.org/10.5281/zenodo.22754705)). Layered licensing documented per source (public domain, CC-BY-4.0, attribution-required open FDSN services).
 
 #### US
 
