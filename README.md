@@ -177,6 +177,12 @@ Kenya
 
 - :blossom: https://tanaribbis.org/ - Biodiversity portal for Kenya
 
+#### KR
+
+South Korea
+
+- :blossom: https://koreaves.com/ - Free, noncommercial bird occurrence-evidence atlas with regional GIS views, species comparisons and links to original public records. Mapped observations should not be interpreted as range boundaries or abundance estimates.
+
 #### NZ
 
 New Zealand
