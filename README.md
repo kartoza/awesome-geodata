@@ -207,6 +207,7 @@ The United States of America
 
 - https://catalog.data.gov/dataset - US Government Data Portal based on the CKAN platform
 - https://github.com/Microsoft/USBuildingFootprints - Microsoft Building Footprints for the US
+- 2026 :recycle: https://hotspringswest.com/data/ - Hot Springs West: 307 hot springs in 12 western US states (location, water temperature, access, fee) with a daily closure, wildfire and weather warning status from USFS, NIFC, NWS and NPS feeds. CSV, JSON and GeoJSON, rebuilt daily, CC BY 4.0
 
 ##### Oklahoma
 
