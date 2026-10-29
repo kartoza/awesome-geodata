@@ -207,6 +207,7 @@ The United States of America
 
 - https://catalog.data.gov/dataset - US Government Data Portal based on the CKAN platform
 - https://github.com/Microsoft/USBuildingFootprints - Microsoft Building Footprints for the US
+- 2026 :recycle: https://flocklocations.com/data - US ALPR (license plate reader) camera locations, downloadable as CSV and GeoJSON under CC BY 4.0, with a public export endpoint that needs no key. Each record is labeled Community Confirmed or 3rd Party / Unconfirmed.
 
 ##### Oklahoma
 
