@@ -207,6 +207,7 @@ The United States of America
 
 - https://catalog.data.gov/dataset - US Government Data Portal based on the CKAN platform
 - https://github.com/Microsoft/USBuildingFootprints - Microsoft Building Footprints for the US
+- https://getparceldata.com - Commercial US parcel boundaries and assessor attributes for 3,164 counties in one schema, by REST API or county download (GeoParquet, GeoPackage, Shapefile, GeoJSON, CSV), with a free sample
 
 ##### Oklahoma
 
