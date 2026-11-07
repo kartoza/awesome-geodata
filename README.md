@@ -208,6 +208,8 @@ The United States of America
 - https://catalog.data.gov/dataset - US Government Data Portal based on the CKAN platform
 - https://github.com/Microsoft/USBuildingFootprints - Microsoft Building Footprints for the US
 - :moneybag: https://getparceldata.com - Commercial US parcel boundaries and assessor attributes for 3,164 counties in one schema, by REST API or county download (GeoParquet, GeoPackage, Shapefile, GeoJSON, CSV), with a free sample
+- 2026 :recycle: https://flocklocations.com/data - US ALPR (license plate reader) camera locations, downloadable as CSV and GeoJSON under CC BY 4.0, with a public export endpoint that needs no key. Each record is labeled Community Confirmed or 3rd Party / Unconfirmed.
+- 2026 :recycle: https://hotspringswest.com/data/ - Hot Springs West: 307 hot springs in 12 western US states (location, water temperature, access, fee) with a daily closure, wildfire and weather warning status from USFS, NIFC, NWS and NPS feeds. CSV, JSON and GeoJSON, rebuilt daily, CC BY 4.0
 
 ##### Oklahoma
 
