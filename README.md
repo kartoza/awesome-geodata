@@ -315,6 +315,10 @@ These are typically expected to be at global or continental scale at least. Loca
 - https://energydata.info/ - Open data platform providing access to datasets and data analytics that are relevant to the energy sector.
 - https://globalsolaratlas.info/map - Maps and data for countries eligible for official development assistance [SolarGIS Catalogue](https://solargis.com/maps-and-gis-data/overview)
 
+### Geology
+
+- https://github.com/XploraHub/geoscience-data-portals - Geoscience Data Portals: government geological survey portals for mineral exploration (maps, geochemistry, geophysics, drillholes) in Australia, Canada, the US, the UK, Ireland, the Nordics, Saudi Arabia and India, with access methods, stated licences and QGIS connection files for their WMS and WFS services. CC BY 4.0.
+
 ### Health
 
 - https://healthsites.io/ - An open data commons of health facility data project built with tight integration to the OpenStreetMap project.
