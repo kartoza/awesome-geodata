@@ -211,6 +211,7 @@ The United States of America
 - 2026 :recycle: https://flocklocations.com/data - US ALPR (license plate reader) camera locations, downloadable as CSV and GeoJSON under CC BY 4.0, with a public export endpoint that needs no key. Each record is labeled Community Confirmed or 3rd Party / Unconfirmed.
 - 2026 :recycle: https://hotspringswest.com/data/ - Hot Springs West: 307 hot springs in 12 western US states (location, water temperature, access, fee) with a daily closure, wildfire and weather warning status from USFS, NIFC, NWS and NPS feeds. CSV, JSON and GeoJSON, rebuilt daily, CC BY 4.0
 - 2026 :recycle: https://groundworkmap.com/data/florida-land-prices - Groundwork: Florida vacant-land price medians from recorded deed sales (USD per acre for sales of 1 acre or more, and per lot under 1 acre) for 67 counties and 367 cities, with each row's sale count and months covered; no median under 5 sales. CSV and JSON with Croissant metadata and a DCAT-US catalog at /data.json, CC BY 4.0
+- 2026 :recycle: https://historicplacesatlas.com/data - US National Register of Historic Places: 99,881 property records including places since removed, with NPS reference numbers, listing and removal dates, coordinates where public, and Wikidata IDs. A separate weekly changes file follows the NPS weekly lists. CSV with a state filter, CC BY 4.0 for the Atlas files (NPS listing data is public domain)
 
 ##### Oklahoma
 
